@@ -12,7 +12,6 @@ I'm Shubham.
 <!-- $\color{red}{your-text-here}$ -->
 ![](https://komarev.com/ghpvc/?username=shubham-0a)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-0a&theme=tokyonight)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-0a&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/shubham-0a/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubham-0a&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shubham's github stats" /></a> | <a href="https://github.com/shubham-0a/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-0a&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
