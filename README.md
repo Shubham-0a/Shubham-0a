@@ -10,7 +10,7 @@ I'm Shubham.
 <!-- 😄 Pronouns: ... -->
 <!-- ⚡ Fun fact: ... -->
 <!-- $\color{red}{your-text-here}$ -->
-<!-- ![](https://komarev.com/ghpvc/?username=shubham-0a) -->
+![](https://komarev.com/ghpvc/?username=shubham-0a)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-0a&theme=tokyonight)
 
