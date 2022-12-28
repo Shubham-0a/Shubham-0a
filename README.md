@@ -5,7 +5,7 @@ I'm Shubham.
 
 <!-- - 🔭 I’m currently looking for project. 🌱 I’m currently learning Computer Vision. -->
  - 🧑‍🤝‍🧑 I’m looking to collaborate on **$\color{green}{Frontend \space Development}$** using **$\color{red}{React}$** or **$\color{red}{Django}$**.       <!-- 🤔 I’m looking for help with ...  -->
- - 💬 Feel free to contact me for any doubt related to **programming problems** or any **React** or **Django** projects.
+ - 💬 Feel free to contact me i may help you related to **programming problems** or any **React** or **Django** projects.
 ### 📩 <a href="mailto:shubhamiit30@gmail.com">Contact me</a>
 <!-- 😄 Pronouns: ... -->
 <!-- ⚡ Fun fact: ... -->
